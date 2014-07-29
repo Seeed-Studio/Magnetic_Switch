@@ -21,4 +21,4 @@ Seeed is a hardware innovation platform for makers to grow inspirations into dif
 
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Grove_Magnetic_Switch)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Magnetic_Switch)](https://github.com/igrigorik/ga-beacon)
